@@ -1,0 +1,120 @@
+.Header {
+  display: flex;
+  /* background-color: grey; */
+  height: 50px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 20px;
+  box-shadow: 0px 0px 8px #333;
+}
+.HeaderLeft {
+  font-weight: 600;
+  font-size: 20px;
+}
+.HeaderRight {
+  display: flex;
+  justify-content: space-between;
+}
+.HeaderLink {
+  padding: 10px;
+  margin: 5px;
+}
+
+.HeaderLink:hover {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.imageText {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+.slider {
+  position: relative;
+  color: white;
+  font-weight: 900;
+}
+.WelcomeText {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.btn {
+  background-color: rgb(237, 123, 93);
+  border-radius: 30px;
+  width: 150px;
+  font-size: 20px;
+  color: white;
+}
+.btn:hover {
+  background-color: rgb(255, 140, 111);
+  color: white;
+}
+.active {
+  color: rgb(255, 140, 111);
+  font-weight: 600;
+}
+
+.cardCantainer {
+  display: flex;
+  margin: 20px;
+  justify-content: center;
+}
+.card {
+  margin: 5px;
+  box-shadow: 0px 4px 8px #555;
+  overflow: hidden;
+}
+.List {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  padding: 20px;
+  margin: auto;
+}
+.List2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+  padding: 20px 70px;
+  margin: auto;
+}
+.listF {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  align-items: center;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  margin: 10px;
+  height: 50px;
+  min-width: 50px;
+  min-height: 50px;
+  border-radius: 50px;
+  background-color: rgb(207, 207, 207);
+}
+.listF:hover {
+  color: rgb(237, 123, 93);
+}
+.gridDemo {
+  display: flex;
+  flex-direction: column;
+}
+.gridDemoMain {
+  display: flex;
+  flex-direction: row;
+}
+.slideBar {
+  display: flex;
+}
