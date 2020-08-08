@@ -81,6 +81,7 @@ function List() {
       </div>
       <div className='List2'>
         <h3>___ Enquire Form ___</h3>
+
         <form>
           <div class='form-group'>
             <label for='exampleInputEmail1'>Name</label>
