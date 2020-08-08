@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SchoolSite.git/static/css/main.2b02e799.chunk.css",
+    "main.js": "/SchoolSite.git/static/js/main.a45be689.chunk.js",
+    "main.js.map": "/SchoolSite.git/static/js/main.a45be689.chunk.js.map",
+    "runtime-main.js": "/SchoolSite.git/static/js/runtime-main.c6ee45c5.js",
+    "runtime-main.js.map": "/SchoolSite.git/static/js/runtime-main.c6ee45c5.js.map",
+    "static/js/2.68a519db.chunk.js": "/SchoolSite.git/static/js/2.68a519db.chunk.js",
+    "static/js/2.68a519db.chunk.js.map": "/SchoolSite.git/static/js/2.68a519db.chunk.js.map",
+    "index.html": "/SchoolSite.git/index.html",
+    "precache-manifest.b6eb40b8290d1d1629788a48a725374f.js": "/SchoolSite.git/precache-manifest.b6eb40b8290d1d1629788a48a725374f.js",
+    "service-worker.js": "/SchoolSite.git/service-worker.js",
+    "static/css/main.2b02e799.chunk.css.map": "/SchoolSite.git/static/css/main.2b02e799.chunk.css.map",
+    "static/js/2.68a519db.chunk.js.LICENSE.txt": "/SchoolSite.git/static/js/2.68a519db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6ee45c5.js",
+    "static/js/2.68a519db.chunk.js",
+    "static/css/main.2b02e799.chunk.css",
+    "static/js/main.a45be689.chunk.js"
+  ]
+}
